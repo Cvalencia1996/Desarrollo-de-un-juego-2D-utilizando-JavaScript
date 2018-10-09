@@ -13,4 +13,8 @@ Paso 6: Construir el muro de ladrillos y dibujar los bloques.
 
 Paso 7: Se hace una función para detectar colisiones y hacemos que los  ladrillos desaparezcan cuando la pelota les golpea.
 
-Paso 8:
+Paso 8: Aquí daremos puntos al jugardor por romper ladrillos, mostraremos un contador y  un mensaje de victoria cuando se hayan destruido todos los ladrillos.
+
+Paso 9: Asociar el movimiento de la pala con el movimiento del ratón
+
+Paso 10: daremos vidas al jugador, si la bola golpea el borde inferior se le restara una vida y si el nuemero de vidas es igual a cero se activara el estado "game over".
