@@ -17,6 +17,6 @@ Paso 8: Aquí daremos puntos al jugardor por romper ladrillos, mostraremos un co
 
 Paso 9: Asociar el movimiento de la pala con el movimiento del ratón
 
-Paso 10: daremos vidas al jugador, si la bola golpea el borde inferior se le restara una vida y si el nuemero de vidas es igual a cero se activara el estado "game over".
+Paso 10: daremos vidas al jugador. Si la bola golpea el borde inferior se le restara una vida y si el nuemero de vidas es igual a cero se activara el estado "game over".
 
 Con estos pasos ya tendras tu juego terminado y funcionando.
