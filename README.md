@@ -1,5 +1,5 @@
 # Desarrollo-de-un-juego-2D-utilizando-JavaScript
-Paso 1: La estructura del documento HTML es muy simple, porque todo el juego se visualizará dentro del elemento < canvas >.
+Paso 1: La estructura del documento HTML es muy simple, porque todo el juego se visualizará dentro del elemento <canvas>.
 
 Paso 2: Definir un blucle de dibujo. Técnicamente, estaremos pintando la pelota en la pantalla, borrándola y luego pintándola de nuevo en una posición ligeramente diferente cada fotograma para dar la impresión de movimiento, igual que se hace en las películas.
 
